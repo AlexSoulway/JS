@@ -1,3 +1,6 @@
-// console.log('Hello World');
-var a = 1;
-console.log(a);
+let x = 0;
+if (true) {
+    console.log(x);
+    x = 1;
+}
+console.log(x);
