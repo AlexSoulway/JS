@@ -34,4 +34,5 @@ function countBasketPrice(bPrice) {
     return basketPrice;
 }
 
-console.log(countBasketPrice(basket));
+// console.log(countBasketPrice(basket));
+countBasketPrice(basketPrice);
