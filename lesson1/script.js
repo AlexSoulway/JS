@@ -58,11 +58,18 @@ some code
 // let a = "Hello!";
 // let a = `Hello!`;
 
+<<<<<<< HEAD
 
 let name = 'Vasya';
 
 // console.log('Привет ' + name);
 console.log(`Привет ${name}`);
+=======
+// let name = 'Vasya';
+
+// console.log('Привет ' + name);
+// console.log(`Привет ${name}`);
+>>>>>>> hw4
 
 // console.log('first string\nsecond string');
 // console.log(`first string
