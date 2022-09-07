@@ -17,3 +17,6 @@ function generNumber(num) {
 };
 
 generNumber(prompt('Введите число от 0 до 999'));
+
+
+
